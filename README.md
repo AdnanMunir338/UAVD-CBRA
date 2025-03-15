@@ -14,11 +14,7 @@ The repository includes pre-trained weights for each model and a dataset for tra
 ## Table of Contents
 1. [Download Weights](#download-weights)
 2. [Download Dataset](#download-dataset)
-3. [Usage](#usage)
-4. [Citation](#citation)
-5. [License](#license)
-6. [Contributing](#contributing)
-7. [Contact](#contact)
+3. [Citation](#citation)
 
 ---
 
@@ -40,6 +36,8 @@ The **Complex Background Dataset (CBD)** used for training and evaluation can be
 - **CBD Dataset**: [Download](https://drive.google.com/file/d/1-BmnQe9LllS7EA4NhGGj-2f7MKZjfnR-/view?usp=sharing)\
   
 If you find this repository useful, please cite the following paper:
+
+## Citation
 
 @InProceedings{Munir_2023_WACV,
     author    = {Adnan Munir, Abdul Jabbar Siddiqui, and Saeed Anwar},
