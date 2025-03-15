@@ -38,13 +38,12 @@ Pre-trained weights for the models can be downloaded from the following Google D
 The **Complex Background Dataset (CBD)** used for training and evaluation can be downloaded from the following link:
 
 - **CBD Dataset**: [Download](https://drive.google.com/file/d/1-BmnQe9LllS7EA4NhGGj-2f7MKZjfnR-/view?usp=sharing)
+If you find this repository useful, please cite the following paper:
 
----
-
-## Usage
-To use this repository, follow these steps:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+@InProceedings{Munir_2023_WACV,
+    author    = {Adnan Munir, Abdul Jabbar Siddiqui, and Saeed Anwar},
+    title     = {Investigation of UAV Detection in Images with Complex Backgrounds and Rainy Artifacts},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {November},
+    year      = {2023},
+}
